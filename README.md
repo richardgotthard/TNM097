@@ -7,5 +7,8 @@ Lab 2 -
 
 Lab 3 -
 
+Made with Fredrik Burmester & Richard Gotthard
+
 Project - Bild reproduction using a photo database
+
 Made with Ludde Jahrl & Richard Gotthard
